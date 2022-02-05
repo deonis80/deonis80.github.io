@@ -1,0 +1,28 @@
+p {
+		color: black; 
+		line-height: 1.25;
+	margin-bottom: 1em;
+}
+            .first {
+		color: black; 
+		font-weight: bold; 
+  		border-left: 5px solid beige;
+}
+body {
+    background-color:white;
+    color: black;
+}
+.entry-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    position: relative;
+    flex-wrap: wrap;
+}
+.entry {
+    width: 600px;
+}
+img {
+    width: 480px;
+}
